@@ -27,6 +27,14 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run experiment:
+
+```bash
+python run_experiment.py
+```
+
 
 
 
