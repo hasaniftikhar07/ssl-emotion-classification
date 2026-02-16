@@ -15,6 +15,15 @@ Dataset size: 23,485 reviews
 
 Author: Hasan Iftikhar
 
+## How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+
+
 ## Research Paper
 
 arXiv preprint: (pending approval)
