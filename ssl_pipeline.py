@@ -1,6 +1,4 @@
-###Mounting the drive
-from google.colab import drive
-drive.mount('/content/drive')
+
 ###Imporing the required packages:
 import pandas as pd
 import re
