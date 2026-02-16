@@ -14,3 +14,10 @@ Models implemented:
 Dataset size: 23,485 reviews
 
 Author: Hasan Iftikhar
+
+## Research Paper
+
+arXiv preprint: (pending approval)
+
+PDF available in this repository.
+
