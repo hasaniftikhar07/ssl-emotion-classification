@@ -34,8 +34,7 @@ Experiments were conducted on 23,485 eCommerce reviews across 7 emotion classes.
 
 Graph-based semi-supervised models were evaluated using a **strict inductive protocol**:
 
-- 80/20 stratified split of labeled data
-- test set excluded from graph construction
+- 30/70 split of labeled and unlabeled data
 - TF-IDF fitted only on training + unlabeled pool
 - predictions made using `.predict()` on unseen data
 
@@ -55,7 +54,7 @@ Runs experiments and produces evaluation metrics.
 requirements.txt  
 Python dependencies required to run the experiments.
 
-manuscript_ssl_emotion_classification.pdf  
+ssl_emotion_classification.pdf.pdf  
 Research manuscript associated with this project.
 
 ## Reproducibility Note
